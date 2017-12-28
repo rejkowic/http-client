@@ -1,0 +1,6 @@
+[submodule "test/app-factory"]
+	path = test/app-factory
+	url = git@github.com:rejkowic/app-factory.git
+[submodule "test/cpp-netlib"]
+	path = test/cpp-netlib
+	url = git@github.com:rejkowic/cpp-netlib.git
